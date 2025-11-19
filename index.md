@@ -651,10 +651,10 @@ Here's what Slide 2 (THE PROBLEM) might actually look like:
 │                                                 │
 │  [Large image: Traditional factory struggling]  │
 │                                                 │
-│  • 2.5M SMEs generate 80% of Egypt's GDP       │
-│  • 90% lack digital transformation             │
-│  • Operating at 60% of potential               │
-│  • €2B+ in lost value annually                 │
+│  • 2.5M SMEs generate 80% of Egypt's GDP        │
+│  • 90% lack digital transformation              │
+│  • Operating at 60% of potential                │
+│  • €2B+ in lost value annually                  │
 │                                                 │
 └─────────────────────────────────────────────────┘
 ```
@@ -665,15 +665,15 @@ Here's what Slide 2 (THE PROBLEM) might actually look like:
 ┌─────────────────────────────────────────────────┐
 │ The Problem: Egyptian SMEs Face Challenges      │
 │                                                 │
-│ • Small and medium enterprises in Egypt face   │
-│   significant challenges in digital trans...   │
-│ • Many businesses lack the resources and...    │
-│ • Traditional consulting is too expensive...   │
-│ • Software solutions are too complex and...    │
-│ • As a result, productivity suffers and...     │
-│ • This creates a significant economic...       │
-│ • Research shows that digital transform...     │
-│ • According to various studies conducted...    │
+│ • Small and medium enterprises in Egypt face    │
+│   significant challenges in digital trans...    │
+│ • Many businesses lack the resources and...     │
+│ • Traditional consulting is too expensive...    │
+│ • Software solutions are too complex and...     │
+│ • As a result, productivity suffers and...      │
+│ • This creates a significant economic...        │
+│ • Research shows that digital transform...      │
+│ • According to various studies conducted...     │
 │                                                 │
 └─────────────────────────────────────────────────┘
 ```
