@@ -20,7 +20,7 @@ AI-Powered Business Transformation for SMEs
 
 [Clean logo image]
 
-Tamer Momtaz, Founder & CEO
+Founder & CEO
 DEVONEERS
 ```
 
