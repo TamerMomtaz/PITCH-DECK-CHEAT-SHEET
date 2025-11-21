@@ -386,10 +386,7 @@ Why This Team?
 
 [Photo + Bio bullets]
 
-TAMER MOMTAZ, Founder & CEO
-→ Plant Director, Al-Manar Plant (300+ employees)
-→ 15+ years operations & transformation experience
-→ MBA, Engineering background
+team members, title , expertise
 
 [If you have team members, add them]
 
@@ -402,6 +399,7 @@ Advisory Board:
 **WHAT YOU SAY:**
 "Why are we the right team to build this?
 
+ex: 
 I've spent 15 years in operational leadership roles, currently as Plant Director at Al-Manar where I manage 300 employees. I've led transformation projects, dealt with procurement nightmares, optimized supply chains, implemented new systems. I've lived the challenges our customers face every single day.
 
 I also have an engineering background and MBA, so I bridge the technical and business sides.
